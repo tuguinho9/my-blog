@@ -1,0 +1,27 @@
+.mynavbar {
+    position:sticky;
+    top:0;
+    z-index:999;
+}
+.travelDiv_main {
+    border:1px solid blue;
+}
+.travelDiv_main img {
+    width:100%;
+}
+.filmes-head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.filmes-head i {
+    float: right;
+}
+.texto-do-filme span {
+    color:gold;
+} 
+.livro {
+    width: 300px;
+    height: 500px;
+}
